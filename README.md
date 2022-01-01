@@ -1,0 +1,9 @@
+## 爬虫合集
+paper.py: 爬取计算机网络三大顶会接收的论文  
+uploader.py: 爬取b站up主的信息  
+hot&rank.py: 爬取b站热门和排行榜视频信息  
+course.py: 爬取中科大学术报告选课信息  
+fund.py: 爬取基金信息  
+jokes.py: 从知乎爬取笑话  
+weibo.py: 当博主发新微博时邮件提醒  
+my_email.py: 发送邮件  
